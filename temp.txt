@@ -1,0 +1,11 @@
+{
+    "firstName":"Mukesh",
+    "lastName":"Mandloi",
+    "phone":"9087898900",
+    "email":"mukesh@gmail.com",
+    "dob":"11/03/2000",
+    "password":"1234567890",
+    "confirmpassword":"1234567890",
+    "gender":"Male",
+    "nic":"1234567891234"
+}
