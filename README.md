@@ -34,9 +34,25 @@ To get a local copy up and running, follow these simple steps.
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/yourusername/CuraSys.git
+   ```
+   
+   ```sh
+   cd backend
+   npm i
+   ```
+   ```sh
+   cd ../frontend
+   npm i
+   ```
+   
+   ```sh
+   cd ../dashboard
+   npm i 
+   ```
 
-
-
+   ```sh
+   npm run dev
+   ```
 
 ## Screenshots
 
