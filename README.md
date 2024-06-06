@@ -1,7 +1,8 @@
 # CuraSys - Hospital Management System
 
 ![CuraSys Logo](https://i.ibb.co/SJXHk32/logo2.png)
-
+![Live Project - click here (Admin Panel)](curasys-admin.netlify.app)
+![(Frontend)](curasys.netlify.app)
 ## Overview
 
 **CuraSys** is a comprehensive hospital management system designed to streamline and automate various administrative and clinical tasks within a healthcare facility. From patient management to doctor management, CuraSys offers a robust platform to improve operational efficiency and enhance patient care.
